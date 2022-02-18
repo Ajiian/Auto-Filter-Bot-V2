@@ -74,7 +74,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 <a href="https://github.com/Ajiian/Auto-Filter-Bot-V2">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy?template=https://github.com/Ajiian/Auto-Filter-Bot-V2>
 </a>
 </p>
 </details>
